@@ -1,8 +1,19 @@
-# React + Vite
+This is an e-commerce website built using React, allowing users to browse products, add them to a shopping cart, and proceed with checkout. It features a modern and responsive design with smooth user experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+******Installation
+Follow these steps to run the project locally:
 
-Currently, two official plugins are available:
+......Clone the repository:
+git clone https://github.com/yourusername/shopper-ecommerce.git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+....Navigate to the project folder:
+cd shopper-ecommerce
+
+
+....Install the dependencies:
+npm install
+
+
+.....Start the development server:
+npm start
